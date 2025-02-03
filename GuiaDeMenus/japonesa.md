@@ -12,3 +12,8 @@ La comida japonesa se caracteriza por su sencillez, elegancia y respeto por la n
 - **Tonkatsu**: Plato japonés de origen tradicional, que consiste en ensalada de verduras, pescado, carne, y ricotta. 
 - **Udon**: Plato japonés de origen tradicional, que consiste en ensalada de verduras, pescado, carne, y ricotta. 
 - **Takoyaki**: Plato japonés de origen tradicional, que consiste en ensalada de verduras, pescado, carne, y ricotta.
+
+## Bebidas Recomendadas
+- Sake: Es una bebida alcohólica fermentada a partir de arroz. 
+- Té verde: Es la bebida no alcohólica más común en Japón.
+- Cerveza: En Japón se consumen principalmente cervezas del tipo lager, con un volumen de alcohol de alrededor del 5%.

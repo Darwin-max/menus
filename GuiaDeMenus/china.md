@@ -14,3 +14,8 @@ La cocina china es famosa por sus sabores frescos y auténticos, basados en ingr
 - Pollo kung pao: Un plato típico de la gastronomía china. 
 - Chow mein: Un plato típico de la gastronomía china. 
 - Ma po tofu: Un plato típico de la gastronomía china. 
+
+## Bebidas Recomendadas
+- Vino tinto Chianti.
+- Agua con gas.
+- Limoncello como digestivo.

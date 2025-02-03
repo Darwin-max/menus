@@ -12,3 +12,6 @@ Vindaloo de ternera: Un plato picante
 - Samosas: Empanadas crujientes hechas de harina de trigo
 - Kati roll: Kebab hecho con masa de pan parata, cordero o pollo, y verduras
 - Thali: Bandeja metálica con pequeños cuencos de platos típicos, como dhal, arroz, verdura, ensalada, curry, yogur, y pappadas
+
+## Bebidas Recomendadas
+- El lassi: es una bebida tradicional a base de yogurt y frutas.

@@ -17,3 +17,11 @@ Hachis parmentier: Gratinado de puré de patatas y carne picada
 - Vino tinto Chianti.
 - Agua. 
 - café con leche.
+
+## Consejos
+- Reduce la grasa en las salsas. 
+- Enloquécete con los vegetales.
+- Quítale la grasa a la carne.
+- No le eches demasiada sal a tus platos.
+- Deja descansar a la carne. 
+- No quemes la grasa.

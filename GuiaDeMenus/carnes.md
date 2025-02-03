@@ -12,3 +12,8 @@ La cocina carnes es famosa por sus sabores frescos y auténticos, basados en ing
 - **Ensalada de Tofu**: Ensalada de tofu con verduras y aceite de oliva.
 - **Tofu en Salsa**: Ensalada de tofu con verduras y aceite de oliva.
 - **Ensalada de Vegetales**: Ensalada de vegetales con verduras y aceite de oliva.
+
+## Bebidas Recomendadas
+- Vino tinto Chianti.
+- Agua con gas.
+- Limoncello como digestivo.

@@ -12,3 +12,8 @@ La cocina francesa es famosa por sus sabores frescos y auténticos, basados en i
 Hachis parmentier: Gratinado de puré de patatas y carne picada 
 - Bullabesa: Sopa de pescado hecha a base de diversos pescados y mariscos hervidos y sazonados con zumo de limón y hierbas aromáticas 
 - Merluza al beurre blanc: Lomos de merluza servidos con una salsa especial elaborada a base de mantequilla, vino blanco y chalotas 
+
+## Bebidas Recomendadas
+- Vino tinto Chianti.
+- Agua. 
+- café con leche.

@@ -7,7 +7,7 @@ Bienvenido a la **Guía de Menús Gastronómicos**, una recopilación de menús 
 ​
 - [Cocina Italiana](GuiaDeMenus/italiana.md): Descubre los sabores tradicionales de Italia con platos como pizza, pasta y risotto.
 - [Cocina Mexicana](GuiaDeMenus/mexicana.md): Vive la experiencia de México con tacos, enchiladas y margaritas.
-- [Cocina Japonesa](menus/japonesa.md): Sushis, ramen y más delicias niponas.
+- [Cocina Japonesa](GuiaDeMenus/japonesa.md): Sushis, ramen y más delicias niponas.
 - [Cocina India](GuiaDeMenus/india.md): Platos especiados como curry y biryani.
 - [Cocina China](GuiaDeMenus/china.md): Dumplings, pato pekinés y arroz frito.
 - [Cocina Francesa](GuiaDeMenus/francesa.md): Crepes, ratatouille y elegantes postres.

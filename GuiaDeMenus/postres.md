@@ -14,3 +14,8 @@ Los postres son platos dulces o salados que se consumen al final de una comida o
 - Pastel de nata: Un postre típico de Portugal
 - Crema catalana: Un postre español que se caracteriza por su azúcar quemado por encima
 - Torrijas: Un postre típico español
+
+## Bebidas Recomendadas
+- vino tinto.
+- café.
+- El champan

@@ -12,3 +12,6 @@ a comida mediterránea se caracteriza por ser una dieta basada en plantas, con u
 - Moussaka: Plato popular en el Medio Oriente y Grecia a base de berenjenas, cordero o vacuno y tomates 
 - Baba Ganoush: Pasta de berenjenas asadas mezcladas con jugo de limón, tahini y especias 
 
+## Bebidas Recomendadas
+- Agua.
+- Vino.

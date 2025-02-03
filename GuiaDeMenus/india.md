@@ -15,3 +15,6 @@ Vindaloo de ternera: Un plato picante
 
 ## Bebidas Recomendadas
 - El lassi: es una bebida tradicional a base de yogurt y frutas.
+
+## Consejos
+- comer con las manos

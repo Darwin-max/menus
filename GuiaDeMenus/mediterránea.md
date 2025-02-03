@@ -15,3 +15,10 @@ a comida mediterránea se caracteriza por ser una dieta basada en plantas, con u
 ## Bebidas Recomendadas
 - Agua.
 - Vino.
+
+## Consejos
+- Consumir frutas y verduras en todas las comidas. 
+- Preparar los alimentos con aceite de oliva, que es una grasa saludable. 
+- Limitar el consumo de carne roja y preferir el pescado y los mariscos. 
+- Consumir legumbres, como judías, garbanzos y lentejas. 
+- Preferir cereales integrales, como pasta integral, arroz salvaje o integral, quinoa, cuscús, patatas, etc. 

@@ -19,3 +19,10 @@ Los postres son platos dulces o salados que se consumen al final de una comida o
 - vino tinto.
 - café.
 - El champan
+
+## Consejos
+- Utilizar ingredientes naturales como frutas, semillas, vegetales y leches
+- Evitar el azúcar procesada y los colorantes artificiales
+- Elegir opciones integrales
+- Agregar frutos secos
+- Buscar opciones bajas en grasas
